@@ -4,7 +4,7 @@ A lightweight, clean Android AI Chatbot built using Kotlin, RecyclerView, and th
 
 ## 📱 App Screenshot
 <p align="center">
-  <img src="screenshot.png" alt="AI Chatbot Screenshot" width="300" />
+  <img src="screenshot.jpeg" alt="AI Chatbot Screenshot" width="300" />
 </p>
 
 ## Features
