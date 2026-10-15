@@ -2,22 +2,10 @@
 
 A lightweight, clean Android AI Chatbot built using Kotlin, RecyclerView, and the Google Gen AI SDK (Gemini API).
 
-## 📱 App Preview
-Here is how the clean WhatsApp-style UI looks in action:
-
-> *(You can add your app screenshot image named `screenshot.png` to this folder to display it here)*
-
-```
- +----------------------------------+
- |  [User: hi]                      |
- |  [AI: Hello! How can I help...]  |
- |                                  |
- |  [User: what is ai]              |
- |  [AI: **AI** stands for...]      |
- +----------------------------------+
- | Message...               [Send]  |
- +----------------------------------+
-```
+## 📱 App Screenshot
+<p align="center">
+  <img src="screenshot.png" alt="AI Chatbot Screenshot" width="300" />
+</p>
 
 ## Features
 - **WhatsApp-style UI:** User messages on the right (green bubble) and AI responses on the left (gray bubble).
